@@ -1,0 +1,11 @@
+idna==2.10
+click==7.1.2
+flask
+gunicorn
+Flask-WTF
+Flask-Script
+Flask-Bcrypt
+WTForms-Components
+numpy
+pandas
+scikit-learn==0.24.2
